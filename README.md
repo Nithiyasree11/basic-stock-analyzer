@@ -19,11 +19,11 @@ Stock Analyzer is a Streamlit-based application that provides comprehensive stoc
 1. Clone or download the repository
 2. Create a ".env" file with the following keys:
 
-``env
+```env
 GOOGLE_API_KEY=your_google_api_key
 FMP_API=your_fmp_api_key
 NEWS_API=your_news_api_key
-``
+```
 
 3. Install dependencies:
 
